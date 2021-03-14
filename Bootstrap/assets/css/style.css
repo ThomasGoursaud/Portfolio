@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+
+.container{
+    padding: 0.1pt;
+}
+
+
+/* navbar */
+
+.start{
+    max-width:8%
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
+
+.startup{
+    max-width:100%
+}
+
+
+
+/* Qui suis-je ? */
+
+.textp{
+    text-align: justify;
+}
+
+
+
+
+
+/* Mes Compétences */
+
+.titre2{
+    text-align: center;
+}
+
+
+
+
+
+
+/* Mes Réalisations*/
+
+.card {
+    padding-left:auto;
+    padding-right:auto;
+    min-height:500px;
+    margin-top:15px;
+  }
+  .col-xs-12{
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+.col-lg-3{
+    flex: 0 0 auto;
+    width: 18rem;
+}
+
+
+/* Me contacter */
+
+
+
+
+
+/* couleurs */
+
+.background01{
+    background-color: #E5E5E5;
+}
+
+.background02{
+    background-color: #212529;
+}
+
+
+/* footer */
+
+
+#copyrights{
+    color: white;
+    text-align: center;
+}
+
+#copyrights a{
+    color: white;
+    text-align: center;
+}
